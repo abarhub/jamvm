@@ -4,3 +4,10 @@ to build :
 make
 make install
 
+to run :
+/usr/local/jamvm/bin/jamvm xxx
+
+to build & run example :
+cd examples
+javac -source 1.8 -target 1.8 HelloWorld.java
+/usr/local/jamvm/bin/jamvm HelloWorld

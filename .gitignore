@@ -20,3 +20,4 @@ src/jamvm
 src/.libs/
 src/interp/relocatability.inc
 src/interp/engine/compute_relocatability
+*.class
